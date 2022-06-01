@@ -1,20 +1,21 @@
 This repo contains:
-Project 1
-Project 2
-Project 3
-Project 4
-Project 5
-Project 6
-Project 7
-Lab 1
-Lab 2
-Lab 3
-Lab 4
-Lab 5
-Lab 6
-Lab 7
-Lab 8
-Lab 9
+
+- cit281-project-1
+- cit281-project-2
+- cit281-project-3
+- cit281-project-4
+- cit281-project-5
+- cit281-project-6
+- cit281-project-7
+- cit281-lab-1
+- cit281-lab-2
+- cit281-lab-3
+- cit281-lab-4
+- cit281-lab-5
+- cit281-lab-7
+- cit281-lab-8
+- cit281-lab-9
+
 
 ## Welcome to GitHub Pages
 
