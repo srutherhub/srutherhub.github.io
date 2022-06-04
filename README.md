@@ -17,4 +17,3 @@ This repo contains:
 - [cit281-lab-8](https://srutherhub.github.io/cit281-lab-8/) (Create a Nodejs server. Using fetch, retrieve data from JSONPLACEHOLDER and display on page)
 - [cit281-lab-9](https://srutherhub.github.io/cit281-lab-9/) (Complete "create a release based workflow" course on github)
 
-![pulpfiction](https://user-images.githubusercontent.com/105068724/171985000-a4dccf40-e0a5-416a-8cc7-b33d2a1ea104.jpg)
