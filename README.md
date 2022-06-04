@@ -16,4 +16,4 @@ This repo contains:
 - [cit281-lab-7](https://srutherhub.github.io/cit281-lab-7/) (Create cit281-lab7 github organization in github. Clone github repo into the organization)
 - [cit281-lab-8](https://srutherhub.github.io/cit281-lab-8/) (Create a Nodejs server. Using fetch, retrieve data from JSONPLACEHOLDER and display on page)
 - [cit281-lab-9](https://srutherhub.github.io/cit281-lab-9/) (Complete "create a release based workflow" course on github)
-
+![pulp fiction](http://srutherhub.github.io/pulpfiction.jpg/)
