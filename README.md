@@ -1,4 +1,4 @@
-This repo contains:
+[This repo contains](https://srutherhub.github.io/):
 
 - [cit281-project-1](https://srutherhub.github.io/cit281-project-1/) (Create folders and folder trees using command line. Execute code using vscode terminal and debug tool)
 - [cit281-project-2](https://srutherhub.github.io/cit281-project-2/) (Use command line to create a git repo. Refactor Nodejs code. Using git via vscode)
